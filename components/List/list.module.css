@@ -1,0 +1,16 @@
+.listWrapper {
+  display: grid;
+  grid-template-columns: 40% 40%;
+  justify-content: center;
+  gap: 40px;
+  width: 100%;
+  margin: 40px auto 40px auto;
+}
+
+@media screen and (max-width: 768px) {
+  .listWrapper {
+    display: flex;
+    flex-direction: column;
+    width: 90%;
+  }
+}

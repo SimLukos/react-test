@@ -1,0 +1,14 @@
+.inputWrapper {
+  width: 100%;
+}
+
+.input {
+  width: 100%;
+  margin-bottom: 2rem;
+  padding: 10px;
+  font-size: large;
+  font-family: "Ingrid Darling", cursive;
+  font-family: "Inter", sans-serif;
+  border-radius: 5px;
+  border: 1px solid black;
+}

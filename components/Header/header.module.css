@@ -1,0 +1,15 @@
+.headerWrapper {
+  background-color: #3a3a3a;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 150px;
+}
+
+.headerWrapper h1 {
+  color: white;
+  font-family: "Ingrid Darling", cursive;
+  font-family: "Inter", sans-serif;
+  font-size: 50px;
+}
